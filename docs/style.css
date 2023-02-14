@@ -1,0 +1,14 @@
+
+
+.container {
+    padding: 100px;
+    margin: auto;
+    width: 500px;
+
+}
+
+.container > button {
+    height: 50px;
+    width: 100px;
+    font-size: large;
+}
